@@ -1,5 +1,1 @@
-.venv
-*pycache*
-Results.csv
-Results_regression.csv
-creditcard.csv
+/.venv
