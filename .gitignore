@@ -1,6 +1,5 @@
 .venv
 .vscode
 *pycache*
-Results.csv
-Results_regression.csv
+Results*
 creditcard.csv
